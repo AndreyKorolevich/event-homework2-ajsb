@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2sb56pb2gxmnj7d7?svg=true)](https://ci.appveyor.com/project/AndreyKorolevich/event-homework2-ajsb)
 ### TOP Tasks
 
 #### Легенда
